@@ -1,7 +1,7 @@
 # overview
 Omnicat is the first omnichain meme coin ever created. It was fairly launched on Dec 22, 2023 across 7 different chains: Ethereum, Solana, Arbitrum, Base, BNB, Polygon and Canto. 
 
-Omnicat was built deliver on the promise of an omnichain future. With new chains being launched every single month, omnichain technology is inevitable. Omnicat aims to showcase and expand upon this technology to the fullest extent.
+Omnicat was built to deliver on the promise of an omnichain future. With new chains being launched every single month, omnichain technology is inevitable. Omnicat aims to showcase and expand upon this technology to the fullest extent.
 
 ## Token
 Description: Omnicat exists as a regular ERC20/SPL token with all minting functions fully disabled. The token ownership and LPs for all DEX pools have been verifiably renounced.
